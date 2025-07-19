@@ -24,7 +24,7 @@ This project focuses on analyzing customer reviews of cafés using supervised ma
 
 [![Watch the demo](https://img.youtube.com/vi/IY7HCWYPa58/hqdefault.jpg)](https://www.youtube.com/watch?v=IY7HCWYPa58)
 
-
+---
 ### House Price Prediction Using Supervised Machine Learning
 
 In this project, I developed a predictive model to estimate house prices based on various property features such as square footage, number of bedrooms and bathrooms, location, and more. The workflow included data preprocessing, handling missing values, feature engineering, and model evaluation. I implemented multiple supervised learning algorithms such as **Linear Regression**, **Random Forest**, **XGBoost** etc. and compared their performance using **R² score**, **MAE**, **MSE**, and **RMSE** as evaluation metrics. This project demonstrates my skills in **regression modeling**, **exploratory data analysis**, and **data pipeline building**.
@@ -36,5 +36,7 @@ In this project, I developed a predictive model to estimate house prices based o
 ##### Model Evaluation ([see more ...](https://github.com/leonalhidayah/house-price-prediction/blob/main/notebooks/03-model_dev.ipynb))
 ![Model Evaluation](assets/img/reg_model_evaluation.png)
 
+
+---
 <!-- ## Blog
 - [Data Science Blog](https://medium.com/@shawhin) -->
