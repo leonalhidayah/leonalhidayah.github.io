@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Excel, Streamlit, Machine Learning
 
 ## Education 			        		
-- S.Si.D, Data Science | Universitas Teknologi Yogyakarta (_Aug 2025_)
+- Bachelor of Data Science (S.Si.D) | Universitas Teknologi Yogyakarta (_Aug 2025_)
 
 ## Work Experience
 **Data Analyst Intern @ Deepublish (_Jan 2024 - May 2024_)**
