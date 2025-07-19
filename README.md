@@ -29,11 +29,15 @@ This project focuses on analyzing customer reviews of cafés using supervised ma
 
 In this project, I developed a predictive model to estimate house prices based on various property features such as square footage, number of bedrooms and bathrooms, location, and more. The workflow included data preprocessing, handling missing values, feature engineering, and model evaluation. I implemented multiple supervised learning algorithms such as **Linear Regression**, **Random Forest**, **XGBoost** etc. and compared their performance using **R² score**, **MAE**, **MSE**, and **RMSE** as evaluation metrics. This project demonstrates my skills in **regression modeling**, **exploratory data analysis**, and **data pipeline building**.
 
-##### My Fav EDA ([see more ...](https://github.com/leonalhidayah/house-price-prediction/blob/main/notebooks/01-eda.ipynb))
+**My Fav EDA ([see more ...](https://github.com/leonalhidayah/house-price-prediction/blob/main/notebooks/01-eda.ipynb))**
+
+
 ![Geospatial Viz](assets/img/line_charts.jpg)
 ![Geospatial Viz](assets/img/geospatial_viz.jpg)
 
-##### Model Evaluation ([see more ...](https://github.com/leonalhidayah/house-price-prediction/blob/main/notebooks/03-model_dev.ipynb))
+**Model Evaluation ([see more ...](https://github.com/leonalhidayah/house-price-prediction/blob/main/notebooks/03-model_dev.ipynb))**
+
+
 ![Model Evaluation](assets/img/reg_model_evaluation.png)
 
 
